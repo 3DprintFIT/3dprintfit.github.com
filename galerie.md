@@ -1,4 +1,4 @@
 ---
-title: Fotogalerie výtisků, tiskáren a akcí
+title: Galerie výtisků, tiskáren a akcí
 layout: default
 ---
