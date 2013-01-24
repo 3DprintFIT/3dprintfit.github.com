@@ -612,7 +612,7 @@ dt {
 }
 
 header {
-  padding: 25px 20px 40px 45px;
+  padding: 25px 20px 40px 20px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -628,7 +628,7 @@ header {
   z-index: 99;
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
-
+  padding-left: 75px;
 }
 header h1 {
   font: 40px/48px "Trebuchet MS", Ubuntu, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -654,6 +654,7 @@ header p {
   text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0;
   font-size: 18px;
   margin: 0px;
+  
 }
 
 #banner {
@@ -763,7 +764,7 @@ header p {
 
 section {
   width: 590px;
-  padding: 30px 30px 50px 30px;
+  padding: 30px 30px 0px 30px;
   margin: 20px 0;
   margin-top: 190px;
   position: relative;
@@ -821,13 +822,8 @@ nav ul a:hover {
 }
 
 footer {
-  width: 180px;
-  position: fixed;
-  left: 50%;
-  margin-left: -530px;
-  bottom: 20px;
-  text-align: right;
-  line-height: 16px;
+  margin-top: -15px;
+  text-align: center;
 }
 
 @media print, screen and (max-width: 1060px) {
