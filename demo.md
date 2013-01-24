@@ -1,5 +1,6 @@
 ---
 title: This will be used as the title-tag of the page head
+layout: default
 ---
 
 [Fakulta informačních technologií](http://fit.cvut.cz/) Českého vysokého učení technického v Praze nabízí studentům **jedinečnou možnost** zapojit se do aktivit **laboratoře 3D tisku**, kde tiskneme na tiskárnách RepRap, vytváříme vlastní projekty a trávíme (téměř veškerý) svůj volný čas.
