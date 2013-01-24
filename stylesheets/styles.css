@@ -3,14 +3,6 @@ Leap Day for GitHub Pages
 by Matt Graham
 */
 
-@font-face {
-  font-family: 'Copse';
-  src: url("../fonts/copse-regular-webfont.eot");
-  src: url("../fonts/copse-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/copse-regular-webfont.woff") format("woff"), url("../fonts/copse-regular-webfont.ttf") format("truetype"), url("../fonts/copse-regular-webfont.svg#CopseRegular") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
-
 /* normalize.css 2012-02-07T12:37 UTC - http://github.com/necolas/normalize.css */
 /* =============================================================================
    HTML5 display definitions
@@ -638,7 +630,7 @@ header {
   min-height: 76px;
 }
 header h1 {
-  font: 40px/48px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 40px/48px "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f3f3f3;
   text-shadow: 0px 2px 0px #235796;
   margin: 0px;
