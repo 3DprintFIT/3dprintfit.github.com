@@ -1,4 +1,4 @@
 ---
-title: Kontakt
+title: Kontakt na laboratoř
 layout: default
 ---
