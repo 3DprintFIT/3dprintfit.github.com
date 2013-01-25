@@ -9,8 +9,6 @@ Pokud nám chcete napsat, napište na náš všeobecný kontakt a my už se s t�
 
 {{ site.icons.phone }} +420 224 356 415
 
-### 
-
 ### Jak k nám
 Naše laboratoř se nachází v prostorách **Fakulty informačních technologií v Dejvicích**. Naleznete ji ve **12. patře budovy A**, místnost **A1231**. Do budovy se dostanete buď vchodem Fakulty stavební (poté směrem doprava k výtahům) nebo průchodem přes novou budovu Fakulty architektury a Fakulty informačních technologií (ve druhém podlaží).
 
