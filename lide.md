@@ -29,5 +29,3 @@ Někteří členové našich řad již nejsou mezi námi, uvítáme, když se k 
 
 #### Adéla Chrastinová
 ![Adéla Chrastinová]({{ 'chrasa1@fit.cvut.cz' | to_gravatar }}) Adéla je absolventkou Katedry počítačů na FELu a stála u zrodu FITu. V nedávné době při mateřské dovolené pomáhala s [propagací fakulty](http://www.fit.cvut.cz/fakulta/kontakty/pr). Je šéfredaktorkou fakultního časopisu [Buď FIT](http://www.fit.cvut.cz/media/casopis). Společně s [Radkem Doubravou](https://usermap.cvut.cz/profile/doubrra1/) je iniciační osobou projektu 3D tiskárny na FITu, starala se o jeho propagaci a komunikaci s fakultou. Nyní se věnuje rodině.
-
-{{ 'user@example.com' | to_gravatar }} test
