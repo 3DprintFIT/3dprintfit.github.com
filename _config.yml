@@ -2,3 +2,7 @@ icons:
     web: "![Web](images/icons/web.png)"
     mail: "![E-mail](images/icons/mail.png)"
     phone: "![Telefon](images/icons/phone.png)"
+
+gravatar:
+    start: "https://secure.gravatar.com/avatar/"
+    end: "?size=100&d=identicon&.png"
