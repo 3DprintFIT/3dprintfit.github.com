@@ -5,4 +5,4 @@ icons:
 
 gravatar:
     start: "https://secure.gravatar.com/avatar/"
-    end: "?size=100&d=http://3dprintfit.github.com/images/face-smile.png"
+    end: "?size=100&d=identicon&.png"
