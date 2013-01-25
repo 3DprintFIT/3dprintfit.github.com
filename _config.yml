@@ -2,6 +2,7 @@ icons:
     web: "![Web](images/icons/web.png)"
     mail: "![E-mail](images/icons/mail.png)"
     phone: "![Telefon](images/icons/phone.png)"
+    fedora: "![Fedora](images/icons/fedora.png)"
 
 gravatar:
     start: "https://secure.gravatar.com/avatar/"
