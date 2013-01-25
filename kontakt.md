@@ -3,7 +3,7 @@ title: Kontakt na laboratoř
 layout: default
 ---
 
-<img style="float:right" src="images/foursquare.png" />
+<a style="float:right" href="https://foursquare.com/v/3dprint-lab/4f9052fce4b072704014b41c"><img src="images/foursquare.png" /></a>
 
 Pokud nám chcete napsat, napište na náš **všeobecný kontakt** a my už se s tím nějak popereme. Nebo nám můžete **zavolat přímo do labu**, což se hodí především, pokud plánujte návštěvu a chcete zjistit, jestli tu někdo je.
 
