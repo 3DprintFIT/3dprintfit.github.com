@@ -540,6 +540,11 @@ img[src^="images/icons/"] {
   height: 16px;
   padding-left: 30px;
 }
+img[src^="https://secure.gravatar.com/avatar/"] {
+  float: left;
+  padding-right: 5px;
+  padding-top: 5px;
+}
 
 blockquote {
   border-left: 1px solid #ffcc00;
