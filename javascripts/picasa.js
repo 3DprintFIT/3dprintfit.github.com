@@ -42,7 +42,8 @@ function imgScaledUrl(url, size) {
   return url.substring(0, split) + "/s" + size + url.substring(split);
 }
 
-function loadPicasaAlbum(userid, albumid, thumbsize, photosize, margin) {
+function loadPicasaAlbum(albumid, thumbsize, photosize, margin) {
+  var userid = "109925005030539246131";
   var ts = thumbsize || DEFAULT_THUMBSIZE;
   var ps = photosize || DEFAULT_PHOTOSIZE;
   var m = margin || DEFAULT_MARGIN;

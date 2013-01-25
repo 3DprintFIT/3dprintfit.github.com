@@ -3,8 +3,19 @@ title: Galerie výtisků, tiskáren a akcí
 layout: default
 ---
 
-<a href="#" onclick='loadPicasaAlbum("109925005030539246131","StavbaPrvniTiskarny");' title="Stavba první tiskárny"><img src="https://lh6.googleusercontent.com/-GEg5msHPRQI/T-sCc-Ow1aE/AAAAAAAABLw/4rOVr7T7P-w/s144-c/SlavnostniOtevreni.jpg" class="albumthumb" /></a>
-<a href="#" onclick='loadPicasaAlbum("109925005030539246131","PrazskaMuzejniNoc2012");' title="Pražská Muzejní noc 2012"><img src="https://lh6.googleusercontent.com/-qfk6C4goF2k/T9ZNUZnfJWE/AAAAAAAABAY/PP9WA7Qd37E/s144-c/PrazskaMuzejniNoc2012.jpg" class="albumthumb" /></a>
+<ul>
+<li><a href="#" onclick='loadPicasaAlbum("SlavnostniOtevreni");'>Slavnostní otevření</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("PrazskaMuzejniNoc2012");'>Pražská Muzejní noc 2012</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("KufrNaTiskarnu");'>Kufr na tiskárnu</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("Torzo");'>Torzo</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("TiskTiskarnyProSiliconHill");'>Tisk tiskárny pro Silicon Hill</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("PoharyBowling");'>Poháry bowling</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("PrezentaceNaFOFITV");'>Prezentace na FOFITV</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("VynalezciAVynalezy");'>Vynálezci a vynálezy</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("NocUniverzitNaCVUT");'>Noc univerzit na ČVUT</a></li>
+<li><a href="#" onclick='loadPicasaAlbum("StavbaPrvniTiskarny");'>Stavba první tiskárny</a></li>
+</ul>
+
 <h3 id="picasaTitle"> </h3>
 <p id="picasaSubtitle">Kliknutím vyberte fotogalerii</p>
 <div id="picasaPhotos"> </div>
