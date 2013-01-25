@@ -17,3 +17,14 @@ Výuka programování součástek v OpenSCADu je součástí [předmětu 3D tisk
 {{ site.icons.web }} [Rozsáhlý manuál](http://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 {{ site.icons.fedora }} `# yum install openscad openscad-MCAD`
+
+### MeshLab
+[![MeshLab](images/screens/meshlab_thumb.png)](images/screens/meshlab.png) MeshLab je aplikace pro vytváření a editaci 3D modelů. MeshLab vznikl na Fakultě informatiky Univerzity v Pise, vytvořili jej z převážné části sami studenti. Umožňuje importovat a exportovat různé formáty pro reprezentaci 3D dat. Kromě hlavní části aplikace umožňuje především jednoduše prohlížet 3D objekty ve formátu STL.
+
+{{ site.icons.web }} [Domovská stránka MeshLabu](http://meshlab.sourceforge.net/)
+
+{{ site.icons.web }} [MeshLab Blog](http://meshlabstuff.blogspot.com/)
+
+{{ site.icons.web }} [MeshLabu Wiki](https://sourceforge.net/apps/mediawiki/meshlab)
+
+{{ site.icons.fedora }} `# yum install meshlab`
