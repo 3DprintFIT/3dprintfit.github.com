@@ -17,7 +17,6 @@ Výuka programování součástek v OpenSCADu je součástí [předmětu 3D tisk
 {{ site.icons.web }} [Rozsáhlý manuál](http://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 {{ site.icons.fedora }} `sudo yum install openscad openscad-MCAD`
-
 {{ site.icons.ubuntu }} `sudo apt-get install openscad`
 
 ### MeshLab
@@ -30,5 +29,4 @@ Výuka programování součástek v OpenSCADu je součástí [předmětu 3D tisk
 {{ site.icons.web }} [MeshLabu Wiki](https://sourceforge.net/apps/mediawiki/meshlab)
 
 {{ site.icons.fedora }} `sudo yum install meshlab`
-
 {{ site.icons.ubuntu }} `sudo apt-get install meshlab`
