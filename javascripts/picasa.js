@@ -1,3 +1,19 @@
+var albums = [
+{"url": "/photographs/yumaprison", "img": "https://lh4.googleusercontent.com/-jJRhrcIcHUM/Tg_DN8y-EjE/AAAAAAAACPo/lsiTpH96VLc/s160-c/YumaTerritorialPrison.jpg", "title": "Yuma Territorial Prison", "date": "Mar 17, 2011", "photos": "41"},
+
+{"url": "/photographs/newzealand", "img": "https://lh5.googleusercontent.com/-oW8UPf3FnzY/Tg-9GrCI_ME/AAAAAAAACJ4/5xd_AI7lOL8/s160-c/NewZealandLOTRTourDay15.jpg", "title": "New Zealand", "date": "Jul 24, 2010", "albums": "17"},
+
+{"url": "/photographs/canada", "img": "https://lh3.googleusercontent.com/-aS0O68kwLyM/Tg-NfjEyF0E/AAAAAAAABKE/fuFOX0DqZt8/s160-c/Whistler.jpg", "title": "Canada", "date": "Jan 20, 2009", "albums": "2"},
+
+{"url": "/photographs/adirondackcanoetrip", "img": "https://lh5.googleusercontent.com/-vMvgJwc0eCQ/Tg9zZr4UBJE/AAAAAAAABEk/pMgDq_MkXC4/s160-c/AdirondackCanoeTrip.jpg", "title": "Adirondack Canoe Trip", "date": "Aug 17, 2008", "photos": "64"},
+
+{"url": "/photographs/kwajalein", "img": "https://lh6.googleusercontent.com/-V61-B888xOA/Tf4i1Qdf6_E/AAAAAAAAA7g/UrFu0BnFyrw/s160-c/Kwajalein.jpg", "title": "Kwajalein", "date": "Jan 20, 2006", "photos": "80"},
+
+{"url": "/photographs/crosscountry", "img": "https://lh5.googleusercontent.com/-hEdze8ETYec/Tf4ihyCsQ9E/AAAAAAAAA7Q/ldFuxJXYm8A/s160-c/CrossCountry.jpg", "title": "Cross Country", "date": "Jul 23, 2005", "photos": "110"},
+
+{"url": "/photographs/hawaii", "img": "https://lh5.googleusercontent.com/-mZTwQaqY0as/TgKg5cr-3nE/AAAAAAAAA8E/w7OGq2AFRRk/s160-c/KauaIIliauNatureLoop.jpg", "title": "Hawai&#39;i", "date": "Feb 26, 2005", "albums": "19"}
+];
+
 function albumHtml(album) {
   var html = '<table style="width:164px; float: left;"><tr><td align="center" style="height:164px;">'
   html += '<a href=' + album.url + '><img src=' + album.img + ' width="160" height="160" style="margin:1px 0 0 4px;"></a>';

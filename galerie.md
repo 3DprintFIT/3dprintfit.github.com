@@ -3,8 +3,7 @@ title: Galerie výtisků, tiskáren a akcí
 layout: default
 ---
 
-<h3 id="picasaTitle"> </h3>
-<p id="picasaSubtitle"> </p>
+<script type="text/javascript">generateAlbumThumbs(albums, "albums");</script>
+<h3 id="picasaTitle">Vyberte fotogalerie</h3>
+<p id="picasaSubtitle">Zde buze zobrazen popis fotogalerie</p>
 <div id="picasaPhotos"> </div>
-<script type="text/javascript">loadPicasaAlbum("109925005030539246131","SlavnostniOtevreni");</script>
-<script type="text/javascript">loadPicasaAlbum("109925005030539246131","StavbaPrvniTiskarny");</script>
