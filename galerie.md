@@ -3,6 +3,8 @@ title: Galerie výtisků, tiskáren a akcí
 layout: default
 ---
 
+### Seznam galerií
+
 <ul>
 <li><a href="#" onclick='loadPicasaAlbum("SlavnostniOtevreni");'>Slavnostní otevření</a></li>
 <li><a href="#" onclick='loadPicasaAlbum("PrazskaMuzejniNoc2012");'>Pražská Muzejní noc 2012</a></li>
@@ -17,5 +19,5 @@ layout: default
 </ul>
 
 <h3 id="picasaTitle"> </h3>
-<p id="picasaSubtitle">Kliknutím vyberte fotogalerii</p>
+<p id="picasaSubtitle">Kliknutím vyberte fotogalerii. Jestli se nic neděje, zkontrolujte, že máte zapnutý JavaScript.</p>
 <div id="picasaPhotos"> </div>
