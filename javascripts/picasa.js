@@ -79,6 +79,7 @@ function loadPicasaAlbum(userid, albumid, thumbsize, photosize, margin) {
     function(data, status) {
       $j("#picasaTitle").text(data.feed.title.$t);
       $j("#picasaSubtitle").text(data.feed.subtitle.$t);
+      $j("#picasaPhotos").text("");
 
       $j.each(data.feed.entry, function(i, pic) {
         var thumb = pic.media$group.media$thumbnail[ts];
