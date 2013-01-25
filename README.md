@@ -7,7 +7,7 @@ Toto je prozatím betverze stránek 3D labu. Text v tomto README je určen před
 
 Celý web je [repozitář na GitHubu](https://github.com/3DprintFIT/3dprintfit.github.com) a stejně tak se s ním i pracuje. Naklonujte ho a vesele commitujte. Pokud nemáte přístup pro zápis, požádejte Mira nebo Marka, případně vyplňte formální Pull Requestu (ale to je asi zbytečné).
 
-Všechny soubory jsou napsané v Markdownu, na HTML se převedou při pullnutí do repa - nejedná se tedy o dynamicky generovaný web, ale o *kompilování* při každém nahrání. Z toho důvodu visí web taky poměrně dlouho v cache prohlížeče, takže pokud chcete vidět update, nezapomeňte promazat. Pokud něco poděláte, revertněte commit.
+Všechny soubory jsou napsané v Markdownu, na HTML se převedou při pullnutí do repa - nejedná se tedy o dynamicky generovaný web, ale o *kompilování* při každém nahrání. Z toho důvodu visí web taky poměrně dlouho v cache prohlížeče, takže pokud chcete vidět update, nezapomeňte promazat (na obsah by mělo stačit `Ctrl+R`, na styly to ne vždy zabere). Pokud něco poděláte, revertněte commit.
 
 Přímo v Markdownu jde používat sekvence HTML, ale dělejte to jen tam, kde je to žádoucí - tedy tam, kde Markdown už nestačí.
 
