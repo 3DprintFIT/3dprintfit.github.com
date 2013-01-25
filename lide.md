@@ -19,7 +19,7 @@ layout: default
 ![Martin Kopecký]({{ site.gravatar.start }}dde144826d96f26b082142154eef32b5{{ site.gravatar.end }}) Nullam risus orci, blandit sed pretium ac, vulputate a lorem. In dignissim tempor sapien, et varius augue tincidunt sed. Fusce ut turpis in risus feugiat varius. Nulla odio nibh, porta a lacinia at, blandit sed lacus. Nulla facilisi. Integer ullamcorper, velit id adipiscing varius, dolor tellus convallis ligula, vitae luctus lectus nunc eu nunc.
 
 #### Tomáš „Syky“ Sýkora
-![Tomáš Sýkora]({{ site.gravatar.start }}aaa00ef8e43527bcc4955719301d0d23{{ site.gravatar.end }}) Cras lobortis elit at risus pellentesque ac ornare urna laoreet. Nulla id est et erat convallis sodales et aliquet sapien. Integer malesuada cursus mi, vitae molestie nisl accumsan eu. Phasellus vehicula ligula eu sem pellentesque dictum. Donec semper aliquet ante ut venenatis.
+![Tomáš Sýkora]({{ site.gravatar.start }}aaa00ef8e43527bcc4955719301d0d23{{ site.gravatar.end }}) Syky je služebně nejmladším členem labu, je studentem prvního ročníku bakalářského programu na FITu. V labu rozbíjí židle a už nevim, co sem napsat dál. FIXME Nulla odio nibh, porta a lacinia at, blandit sed lacus. Nulla facilisi.
 
 ### Neaktivní členové
 Někteří členové našich řad již nejsou mezi námi, uvítáme, když se k nám [přidáte třeba vy](kontakt) a rozšíříte naše řady.
