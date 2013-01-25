@@ -1,6 +1,6 @@
 ---
 title: Galerie výtisků, tiskáren a akcí
-layout: test
+layout: default
 ---
 
 
