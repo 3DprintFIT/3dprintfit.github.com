@@ -544,6 +544,8 @@ img[src^="https://secure.gravatar.com/avatar/"] {
   float: left;
   padding-right: 5px;
   padding-top: 5px;
+  width: 100px;
+  height: 100px;
 }
 
 blockquote {
