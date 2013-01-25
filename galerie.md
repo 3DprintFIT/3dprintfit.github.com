@@ -7,3 +7,4 @@ layout: default
 <p id="picasaSubtitle"> </p>
 <div id="picasaPhotos"> </div>
 <script type="text/javascript">loadPicasaAlbum("109925005030539246131","SlavnostniOtevreni");</script>
+<script type="text/javascript">loadPicasaAlbum("109925005030539246131","StavbaPrvniTiskarny");</script>
