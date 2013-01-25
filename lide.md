@@ -10,12 +10,16 @@ layout: default
 ![Miro Hrončok]({{ site.gravatar.start }}2e9e2e7d709e415d39879f2ed2dfe62c{{ site.gravatar.end }}) Miro je Markův zástupce, stará se o obsah tohoto webu a je autorem i dalších tiskových materiálů týkajících se projektu 3D tisku na FIT. Protože vytvořil i tuto stránku, zařadil se sobecky už na druhé místo, aby si ostatní mysleli, že je důležitý. Není to ale pravda, do labu si jen chodí parkovat koloběžku a popíjet kávu. Miro je profesionálním stavitelem kufrů pro tiskárny, studentem bakalářského programu FIT a bývalým šéfredaktorem portálu [LinuxEXPRES.cz](http://www.linuxexpres.cz/). Momentálně pracuje na tom, aby všechny [programy, které používáme](aplikace), byly dostupné v repozitářích distribuce Fedora.
 
 #### Honza Vaněk
+![Honza Vaněk]({{ site.gravatar.start }}2e9e2e7d709e415d39879f2ed2dfe62c{{ site.gravatar.end }}) 
 
 #### Honza Friedl
+![Honza Friedl]({{ site.gravatar.start }}102a840870ca6be0e15505777ada5e45{{ site.gravatar.end }}) 
 
 #### Martin Kopecký
+![Martin Kopecký]({{ site.gravatar.start }}dde144826d96f26b082142154eef32b5{{ site.gravatar.end }}) 
 
 #### Tomáš „Syky“ Sýkora
+![Tomáš Sýkora]({{ site.gravatar.start }}aaa00ef8e43527bcc4955719301d0d23{{ site.gravatar.end }}) 
 
 ### Neaktivní členové
 Někteří členové našich řad již nejsou mezi námi, uvítáme, když se k nám [přidáte třeba vy](kontakt) a rozšíříte naše řady.
