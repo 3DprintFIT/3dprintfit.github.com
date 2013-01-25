@@ -5,7 +5,7 @@ layout: default
 
 Toto je prozatím betverze stránek 3D labu. Text v tomto README je určen především přispěvatelům, nicméně není to nic tajného.
 
-Celý web je [repozitář na GitHubu](https://github.com/3DprintFIT/3dprintfit.github.com) a stejně tak se s ním i pracuje. Naklonujte ho a vesele editujte. Pokud nemáte přístup pro zápis, požádejte Mira nebo Marka, případně vyplňte formální Pull Requestu.
+Celý web je [repozitář na GitHubu](https://github.com/3DprintFIT/3dprintfit.github.com) a stejně tak se s ním i pracuje. Naklonujte ho a vesele commitujte. Pokud nemáte přístup pro zápis, požádejte Mira nebo Marka, případně vyplňte formální Pull Requestu (ale to je asi zbytečné).
 
 Všechny soubory jsou napsané v Markdownu, na HTML se převedou při pullnutí do repa - nejedná se tedy o dynamicky generovaný web, ale o *kompilování* při každém nahrání. Z toho důvodu visí web taky poměrně dlouho v cache prohlížeče, takže pokud chcete vidět update, nezapomeňte promazat. Pokud něco poděláte, revertněte commit.
 
@@ -27,6 +27,7 @@ Přímo v Markdownu jde používat sekvence HTML, ale dělejte to jen tam, kde j
  * Dohákovat nějaký box se sociálníma widgeteama - Twitter, Facebook... (Miro)
  * Dodat popis o sobě do `lide.md` (Honzové, Syky, Martin) až bude nahozená struktura (Miro)
  * Prolézat web a opravovat nebo aspoň hlásit chyby (všichni)
+ * Až to bude ready, deploynout to na 3dprint.fit.cvut.cz (Miro + někdo na straně školy (Jakub?))
 
 ### Galerie
 
