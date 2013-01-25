@@ -3,6 +3,8 @@ title: Laboratoř 3D tisku
 layout: default
 ---
 
+Test 132
+
 [Fakulta informačních technologií](http://fit.cvut.cz/) Českého vysokého učení technického v Praze nabízí studentům **jedinečnou možnost** zapojit se do aktivit **laboratoře 3D tisku**, kde tiskneme na tiskárnách RepRap, vytváříme vlastní projekty a trávíme (téměř veškerý) svůj volný čas.
 
 ### 3D tiskárny RepRap
