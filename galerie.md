@@ -1,6 +1,6 @@
 ---
 title: Galerie výtisků, tiskáren a akcí
-layout: default
+layout: test
 ---
 
 <pre id="picasaSubtitle"></pre>
