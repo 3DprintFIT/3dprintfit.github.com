@@ -24,5 +24,8 @@ layout: default
 ### Neaktivní členové
 Někteří členové našich řad již nejsou mezi námi, uvítáme, když se k nám [přidáte třeba vy](kontakt) a rozšíříte naše řady.
 
+#### Vojta Pithart
+![Vojta Pithart]({{ site.gravatar.start }}1ea4e3af266a619aa964d31bb9bb0a8d{{ site.gravatar.end }}) Vojta byl studentem bakalářského programu FIT a aktivním členem labu v době jeho zakládání. Nyní se rozhodl ukončit akademické působení a věnuje se naplno práci pro [Středisko společných činností Akademie věd](http://www.ssc.cas.cz/).
+
 #### Adéla Chrastinová
 ![Adéla Chrastinová]({{ site.gravatar.start }}eec2deab2a395f272fe7fb1c5745718f{{ site.gravatar.end }}) Adéla je absolventkou Katedry počítačů na FELu a stála u zrodu FITu. V nedávné době při mateřské dovolené pomáhala s [propagací fakulty](http://www.fit.cvut.cz/fakulta/kontakty/pr). Je šéfredaktorkou fakultního časopisu [Buď FIT](http://www.fit.cvut.cz/media/casopis). Společně s [Radkem Doubravou](https://usermap.cvut.cz/profile/doubrra1/) je iniciační osobou projektu 3D tiskárny na FITu, starala se o jeho propagaci a komunikaci s fakultou. Nyní se věnuje rodině.
