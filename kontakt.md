@@ -3,11 +3,17 @@ title: Kontakt na laboratoř
 layout: default
 ---
 
-Pokud nám chcete napsat, napište na náš všeobecný kontakt a my už se s tím nějak popereme. Nebo nám můžete zavolat přímo do labu, což se hodí především, pokud plánujte návštěvu a chcete zjistit, jestli tam někdo je.
+Pokud nám chcete napsat, napište na náš **všeobecný kontakt** a my už se s tím nějak popereme. Nebo nám můžete **zavolat přímo do labu**, což se hodí především, pokud plánujte návštěvu a chcete zjistit, jestli tu někdo je.
 
 {{ site.icons.mail }} [3dprint@fit.cvut.cz](mailto:3dprint@fit.cvut.cz)
 
 {{ site.icons.phone }} +420 224 356 415
+
+## Přijďte se k nám podívat
+Ještě jste neviděli tiskárnu naživo a chtěli byste? Nebo naopak už uvažujete o stavbě své vlastní? Či snad už tiskárnu máte a hledáte odbornou pomoc? Je mnoho důvodů, proč se u nás zastavit. **Domluvte si schůzku nebo přijďte na blind**, nám je to jedno (raději ale zavolejte a ověřte, že tu jsme).
+
+## Přidejte se k nám
+Líbí se vám, co děláme a **chcete se k nám přidat?** Přijďte za námi a najdeme vám aktivitu. Naše dveře jsou dalším lidem otevřené, **nemusíte být ani student naší univerzity**.
 
 ### Jak k nám
 Naše laboratoř se nachází v prostorách **Fakulty informačních technologií v Dejvicích**. Naleznete ji ve **12. patře budovy A**, místnost **A1231**. Do budovy se dostanete buď vchodem Fakulty stavební (poté směrem doprava k výtahům) nebo průchodem přes novou budovu Fakulty architektury a Fakulty informačních technologií (ve druhém podlaží).
