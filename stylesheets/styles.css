@@ -548,6 +548,13 @@ img[src^="https://secure.gravatar.com/avatar/"] {
   height: 100px;
   clear: both;
 }
+img[src^="images/screens/"] {
+  float: right;
+  padding-left: 5px;
+  padding-top: 5px;
+  width: 300px;
+  clear: both;
+}
 
 blockquote {
   border-left: 1px solid #ffcc00;
