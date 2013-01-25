@@ -10,7 +10,7 @@ layout: default
 ![Miro Hrončok]({{ 'hroncmir@fit.cvut.cz' | to_gravatar }}) Miro je Markův zástupce, stará se o obsah tohoto webu a je autorem i dalších tiskových materiálů týkajících se projektu 3D tisku na FIT. Protože vytvořil i tuto stránku, zařadil se sobecky už na druhé místo, aby si ostatní mysleli, že je důležitý. Není to ale pravda, do labu si jen chodí parkovat koloběžku a popíjet kávu. Miro je profesionálním stavitelem kufrů pro tiskárny, studentem bakalářského programu FIT a bývalým šéfredaktorem portálu [LinuxEXPRES.cz](http://www.linuxexpres.cz/). Momentálně pracuje na tom, aby všechny [programy, které používáme](aplikace), byly dostupné v repozitářích distribuce Fedora.
 
 #### Honza Vaněk
-![Honza Vaněk]({{ 'vanek@afatelier.cz' | to_gravatar }}) Honza je studentem magisterského programu Fakulty architektury a je tak zatím jediným členem labu, který není z FITu. Není limitován programátorskou logikou a tak neustále vymýšlí věci, které se ostatním zdají nereálné. Většinou se mu to ale povede. Vymyslel [obří tiskárnu Golem](projekty#golem) a neustále ji předělává a zlepšuje. Momentálně by chtěl vytvořit poloautomatické létající drony, které budou tisknout a tisk tedy nebude limitován velikostí konstrukce.
+![Honza Vaněk]({{ 'vanek@afatelier.cz' | to_gravatar }}) 
 
 #### Honza Friedl
 ![Honza Friedl]({{ 'friedjan@fit.cvut.cz' | to_gravatar }}) 
