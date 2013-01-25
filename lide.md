@@ -29,3 +29,6 @@ Někteří členové našich řad již nejsou mezi námi, uvítáme, když se k 
 
 #### Adéla Chrastinová
 ![Adéla Chrastinová]({{ site.gravatar.start }}eec2deab2a395f272fe7fb1c5745718f{{ site.gravatar.end }}) Adéla je absolventkou Katedry počítačů na FELu a stála u zrodu FITu. V nedávné době při mateřské dovolené pomáhala s [propagací fakulty](http://www.fit.cvut.cz/fakulta/kontakty/pr). Je šéfredaktorkou fakultního časopisu [Buď FIT](http://www.fit.cvut.cz/media/casopis). Společně s [Radkem Doubravou](https://usermap.cvut.cz/profile/doubrra1/) je iniciační osobou projektu 3D tiskárny na FITu, starala se o jeho propagaci a komunikaci s fakultou. Nyní se věnuje rodině.
+
+#### Gary Fibiger
+![Gary Fibiger]({{ site.gravatar.start }}b328e7a5d0c914b773ac2f6ee21a859d{{ site.gravatar.end }}) Gary bla bla :)
