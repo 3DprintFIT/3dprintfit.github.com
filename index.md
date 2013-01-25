@@ -19,5 +19,4 @@ Tiskne se většinou z **plastu**, konkrétně z ABS, nebo z plastu podobného m
 
 Máme tedy samohybnou tavnou pistoli, ze které vylézá místo lepidla plast – jak z toho ale udělat objekt podle počítačové reprezentace? Jednoduše, model se před tiskem pomocí speciálního programu **nařeže na dvourozměrné pláty**. Tisková hlava pak **nakreslí vždy jednu vrstvu** a posune se o kousek výš, kde začne kreslit další. Výhoda je, že řezací program pozná, která část je vnitřní, a podle požadavku uživatele vyplní objekt jen částečně, například sítí nebo včelími pláty. Není tak dutý a jednoduše zničitelný, není ale ani plný a šetří tedy materiál.
 
-{{ site.icons.web }}
-Více se dozvíte v [článku na LinuxEXPRES.cz](http://www.linuxexpres.cz/hardware/3d-tisk).
+{{ site.icons.web }}Více se dozvíte v [článku na LinuxEXPRES.cz](http://www.linuxexpres.cz/hardware/3d-tisk).
