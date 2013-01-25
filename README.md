@@ -26,7 +26,7 @@ Přímo v Markdownu jde používat sekvence HTML, ale dělejte to jen tam, kde j
  * Doplnit fotky z nedávných aktivit do galerie (Marek) viz dále
  * Dohákovat někam na titulku sponzory a partnery (Miro)
  * Dohákovat nějaký box se sociálníma widgeteama - Twitter, Facebook... (Miro)
- * Dodat popis o sobě do `lide.md` (Honzové, Syky, Martin) až bude nahozená struktura (Miro)
+ * Dodat popis o sobě do `lide.md` (Honzové, Syky, Martin)
  * Prolézat web a opravovat nebo aspoň hlásit chyby (všichni)
  * Až to bude ready, deploynout to na 3dprint.fit.cvut.cz (Miro + někdo na straně školy (Jakub?))
 
