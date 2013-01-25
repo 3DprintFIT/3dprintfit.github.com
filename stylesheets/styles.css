@@ -538,6 +538,7 @@ section img {
 img[src^="images/icons/"] {
   width: 16px;
   height: 16px;
+  padding-left: 30px;
 }
 
 blockquote {
