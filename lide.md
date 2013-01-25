@@ -4,28 +4,28 @@ layout: default
 ---
 
 #### Marek Žehra
-![Marek Žehra]({{ site.gravatar.start }}009b16604a96c6389534babf8d2f3a63{{ site.gravatar.end }}) Marek je vedoucím projektu 3D tiskárny na FITu, je hlavním tahounem a erudovanou tváří naší tiskárny. Je autorem většiny návrhů nových objektů pro tisk a podílí se také na návrzích na zlepšení samotné tiskárny. Marek je správcem [laboratoře](kontakt). V současné době je studentem magisterského programu Znalostní inženýrství a pracuje také jako asistent při výuce. Marek plánuje do budoucna zadávání témat bakalářských a magisterských prací, souvisejících s 3D tiskem, stavbu nových typů tiskáren a příbuzných zařízení.
+![Marek Žehra]({{ 'zehramar@fit.cvut.cz' | to_gravatar }}) Marek je vedoucím projektu 3D tiskárny na FITu, je hlavním tahounem a erudovanou tváří naší tiskárny. Je autorem většiny návrhů nových objektů pro tisk a podílí se také na návrzích na zlepšení samotné tiskárny. Marek je správcem [laboratoře](kontakt). V současné době je studentem magisterského programu Znalostní inženýrství a pracuje také jako asistent při výuce. Marek plánuje do budoucna zadávání témat bakalářských a magisterských prací, souvisejících s 3D tiskem, stavbu nových typů tiskáren a příbuzných zařízení.
 
 #### Miro Hrončok
-![Miro Hrončok]({{ site.gravatar.start }}2e9e2e7d709e415d39879f2ed2dfe62c{{ site.gravatar.end }}) Miro je Markův zástupce, stará se o obsah tohoto webu a je autorem i dalších tiskových materiálů týkajících se projektu 3D tisku na FIT. Protože vytvořil i tuto stránku, zařadil se sobecky už na druhé místo, aby si ostatní mysleli, že je důležitý. Není to ale pravda, do labu si jen chodí parkovat koloběžku a popíjet kávu. Miro je profesionálním stavitelem kufrů pro tiskárny, studentem bakalářského programu FIT a bývalým šéfredaktorem portálu [LinuxEXPRES.cz](http://www.linuxexpres.cz/). Momentálně pracuje na tom, aby všechny [programy, které používáme](aplikace), byly dostupné v repozitářích distribuce Fedora.
+![Miro Hrončok]({{ 'hroncmir@fit.cvut.cz' | to_gravatar }}) Miro je Markův zástupce, stará se o obsah tohoto webu a je autorem i dalších tiskových materiálů týkajících se projektu 3D tisku na FIT. Protože vytvořil i tuto stránku, zařadil se sobecky už na druhé místo, aby si ostatní mysleli, že je důležitý. Není to ale pravda, do labu si jen chodí parkovat koloběžku a popíjet kávu. Miro je profesionálním stavitelem kufrů pro tiskárny, studentem bakalářského programu FIT a bývalým šéfredaktorem portálu [LinuxEXPRES.cz](http://www.linuxexpres.cz/). Momentálně pracuje na tom, aby všechny [programy, které používáme](aplikace), byly dostupné v repozitářích distribuce Fedora.
 
 #### Honza Vaněk
-![Honza Vaněk]({{ site.gravatar.start }}e52bb6046754780004d880447618edbe{{ site.gravatar.end }}) 
+![Honza Vaněk]({{ 'vanek@afatelier.cz' | to_gravatar }}) 
 
 #### Honza Friedl
-![Honza Friedl]({{ site.gravatar.start }}102a840870ca6be0e15505777ada5e45{{ site.gravatar.end }}) 
+![Honza Friedl]({{ 'friedjan@fit.cvut.cz' | to_gravatar }}) 
 
 #### Martin Kopecký
-![Martin Kopecký]({{ site.gravatar.start }}dde144826d96f26b082142154eef32b5{{ site.gravatar.end }}) 
+![Martin Kopecký]({{ 'kopecm10@fit.cvut.cz' | to_gravatar }}) 
 
 #### Tomáš „Syky“ Sýkora
-![Tomáš Sýkora]({{ site.gravatar.start }}aaa00ef8e43527bcc4955719301d0d23{{ site.gravatar.end }}) 
+![Tomáš Sýkora]({{ 'sykorto6@fit.cvut.cz' | to_gravatar }}) 
 
 ### Neaktivní členové
 Někteří členové našich řad již nejsou mezi námi, uvítáme, když se k nám [přidáte třeba vy](kontakt) a rozšíříte naše řady.
 
 #### Vojta Pithart
-![Vojta Pithart]({{ site.gravatar.start }}1ea4e3af266a619aa964d31bb9bb0a8d{{ site.gravatar.end }}) Vojta byl studentem bakalářského programu FIT a aktivním členem labu v době jeho zakládání. Nyní se rozhodl ukončit akademické působení a věnuje se naplno práci pro [Středisko společných činností Akademie věd](http://www.ssc.cas.cz/).
+![Vojta Pithart]({{ 'pithart.vojtech@gmail.com' | to_gravatar }}) Vojta byl studentem bakalářského programu FIT a aktivním členem labu v době jeho zakládání. Nyní se rozhodl ukončit akademické působení a věnuje se naplno práci pro [Středisko společných činností Akademie věd](http://www.ssc.cas.cz/).
 
 #### Adéla Chrastinová
-![Adéla Chrastinová]({{ site.gravatar.start }}eec2deab2a395f272fe7fb1c5745718f{{ site.gravatar.end }}) Adéla je absolventkou Katedry počítačů na FELu a stála u zrodu FITu. V nedávné době při mateřské dovolené pomáhala s [propagací fakulty](http://www.fit.cvut.cz/fakulta/kontakty/pr). Je šéfredaktorkou fakultního časopisu [Buď FIT](http://www.fit.cvut.cz/media/casopis). Společně s [Radkem Doubravou](https://usermap.cvut.cz/profile/doubrra1/) je iniciační osobou projektu 3D tiskárny na FITu, starala se o jeho propagaci a komunikaci s fakultou. Nyní se věnuje rodině.
+![Adéla Chrastinová]({{ 'chrasa1@fit.cvut.cz' | to_gravatar }}) Adéla je absolventkou Katedry počítačů na FELu a stála u zrodu FITu. V nedávné době při mateřské dovolené pomáhala s [propagací fakulty](http://www.fit.cvut.cz/fakulta/kontakty/pr). Je šéfredaktorkou fakultního časopisu [Buď FIT](http://www.fit.cvut.cz/media/casopis). Společně s [Radkem Doubravou](https://usermap.cvut.cz/profile/doubrra1/) je iniciační osobou projektu 3D tiskárny na FITu, starala se o jeho propagaci a komunikaci s fakultou. Nyní se věnuje rodině.
