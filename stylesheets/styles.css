@@ -535,6 +535,11 @@ section img {
   max-width: 100%;
 }
 
+img[src^="images/icons/"] {
+  width: 16px;
+  height: 16px;
+}
+
 blockquote {
   border-left: 1px solid #ffcc00;
   margin: 0;
