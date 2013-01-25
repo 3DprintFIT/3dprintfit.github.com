@@ -20,6 +20,7 @@ Přímo v Markdownu jde používat sekvence HTML, ale dělejte to jen tam, kde j
 ### TODO
 
  * Doplnit zbývající obsah (Miro)
+ * Prosekat a zkrátit text na úvodní straně na cca polovinu, přidat video (Miro)
  * Předělat repo předmětu, aby šlo použít jako websita a udělat z toho submodul (Miro)
  * Nafotit vytištěné předměty na čistě bílém pozadí (Marek) a doplnit je jako ilustrační grafiku (Miro)
  * Doplnit fotky z nedávných aktivit do galerie (Marek) viz dále
