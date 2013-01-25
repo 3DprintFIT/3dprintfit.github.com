@@ -951,7 +951,7 @@ footer {
 
 /* SLIMBOX */
 
-#picasaPhotos img {
+#picasaPhotos img, img.albumthumb {
   border: 1px solid #000;
   margin: 5px 5px 5px 5px;
 }
