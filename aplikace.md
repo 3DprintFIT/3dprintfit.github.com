@@ -13,7 +13,6 @@ Výuka programování součástek v OpenSCADu je součástí [předmětu 3D tisk
 {{ site.icons.web }} [Český článek na LinuxEXPRES.cz](http://www.linuxexpres.cz/software/openscad-programujte-3d-modely-wysiwym)
 
 {{ site.icons.web }} [Domovská stránka OpenSCADu](http://www.openscad.org/)
-
 {{ site.icons.web }} [Rozsáhlý manuál](http://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 {{ site.icons.fedora }} `sudo yum install openscad openscad-MCAD`
