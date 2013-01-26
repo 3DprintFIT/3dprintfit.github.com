@@ -35,9 +35,10 @@ Výuka programování součástek v OpenSCADu je součástí [předmětu 3D tisk
 Skeinforge slouží ke slicování objektů, tedy k nařezání na jednotlivé tiskové vrstvy a k vypočítání průběhu tiskové hlavy. Přestože jeho uživatelské rozhraní není zrovna přívětivé a slicování trvá velice dlouho, dosahuje velice kvalitních výsledků. Pokud použijete ke slicování místo CPythonu PyPy, slicování je čtyřikrát rychlejší. Slicování pomocí Skeinforge můžete vyvolat přímo z některých ovládacích programů k tiskárně. Existuje také fork Skeinforge nazvaný SFACT, který vylepšuje řadu věcí.
 
 {{ site.icons.web }} [Stažení Skeinforge](http://fabmetheus.crsndoo.com/)
-{{ site.icons.web }} [Manuál ke Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge)
-
 {{ site.icons.web }} [Stažení SFACTu](http://www.reprapfordummies.net/)
+
+{{ site.icons.web }} [Manuál ke Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge)
+{{ site.icons.web }} [Naše profily pro Skeinforge](https://github.com/3DprintFIT/3dprintfit.github.com)
 
 {{ site.icons.fedora }} `sudo yum install skeinforge`
 {{ site.icons.ubuntu }} `sudo apt-get install sfact`
