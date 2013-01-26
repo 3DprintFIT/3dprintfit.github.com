@@ -46,6 +46,6 @@ Skeinforge slouží ke slicování objektů, tedy k nařezání na jednotlivé t
 [![Slic3r](images/screens/slic3r_thumb.png)](images/screens/slic3r.png) Slic3r je jinou aplikací pro slicování. Kromě velice přehledného uživatelského rozhraní nabízí rozdělení profilů na tři &ndash; pro různé tiskárny, pro různé materiály a pro různé účely. Tam kde si vystačíte s `n` profily, ve Skeinforge byste jich potřebovali `(n/3)^3` na pokrytí všech kombinací. Slic3r dále umožňuje velmi pohodlnou přípravu tiskového plátu a využívá k výpočtu více vláken. V některých případech ale nedává tak dobré výsledky, ačkoli jeho vývoj jde oproti stagnujícímu Skeinforge rychle kupředu.
 
 {{ site.icons.web }} [Domovská stránka Slic3ru](http://slic3r.org/)
-{{ site.icons.web }} [Třídílná článek popisující snad všechny možnosti](http://richrap.blogspot.cz/2012/01/slic3r-is-nicer-part-1-settings-and.html)
+{{ site.icons.web }} [Třídílná článek popisující jednotlivé volby](http://richrap.blogspot.cz/2012/01/slic3r-is-nicer-part-1-settings-and.html)
 
 {{ site.icons.fedora }} `sudo yum install slic3r`
