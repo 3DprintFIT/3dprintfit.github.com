@@ -20,7 +20,7 @@ Výuka programování součástek v OpenSCADu je součástí [předmětu 3D tisk
 {{ site.icons.ubuntu }} `sudo apt-get install openscad`
 
 ### MeshLab
-[![MeshLab](images/screens/meshlab_thumb.png)](images/screens/meshlab.png) MeshLab je aplikace pro vytváření a editaci 3D modelů. MeshLab vznikl na Fakultě informatiky Univerzity v Pise, vytvořili jej z převážné části sami studenti. Umožňuje importovat a exportovat různé formáty pro reprezentaci 3D dat. Kromě hlavní části aplikace umožňuje především jednoduše prohlížet 3D objekty ve formátu STL.
+[![MeshLab](images/screens/meshlab_thumb.png)](images/screens/meshlab.png) MeshLab je aplikace pro vytváření a editaci 3D modelů. MeshLab vznikl na Fakultě informatiky Univerzity v Pise, vytvořili jej z převážné části sami studenti. Umožňuje importovat a exportovat různé formáty pro reprezentaci 3D dat. Kromě hlavní části aplikace umožňuje především jednoduše prohlížet 3D objekty ve formátu STL a zjednodušovat je.
 
 {{ site.icons.web }} [Domovská stránka MeshLabu](http://meshlab.sourceforge.net/)
 
@@ -30,3 +30,15 @@ Výuka programování součástek v OpenSCADu je součástí [předmětu 3D tisk
 
 {{ site.icons.fedora }} `sudo yum install meshlab`
 {{ site.icons.ubuntu }} `sudo apt-get install meshlab`
+
+### Skeinforge a SFACT
+Skeinforge slouží ke slicování objektů, tedy k nařezání na jednotlivé tiskové vrstvy a k vypočítání průběhu tiskové hlavy. Přestože jeho uživatelské rozhraní není zrovna přívětivé a slicování trvá velice dlouho, dosahuje velice kvalitních výsledků. Pokud použijete ke slicování místo CPythonu PyPy, slicování je čtyřikrát rychlejší. Slicování pomocí Skeinforge můžete vyvolat přímo z některých ovládacích programů k tiskárně. Existuje také fork Skeinforge nazvaný SFACT, který vylepšuje řadu věcí.
+
+{{ site.icons.web }} [Stažení Skeinforge](http://fabmetheus.crsndoo.com/)
+
+{{ site.icons.web }} [Manuál ke Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge)
+
+{{ site.icons.web }} [Stažení SFACTu](http://www.reprapfordummies.net/)
+
+{{ site.icons.fedora }} `sudo yum install skeinforge`
+{{ site.icons.ubuntu }} `sudo apt-get install sfact`
