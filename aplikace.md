@@ -61,4 +61,5 @@ Printrun je sada aplikací na práci s tiskárnou. **Plater** je velmi primitivn
 
 {{ site.icons.fedora }} `sudo yum install plater/pronsole/pronterface` pro jednotlivé aplikace
 
-{{ site.icons.ubuntu }} `sudo apt-add-repository ppa:richi-paraeasy/ppa && sudo apt-get update && sudo apt-get install pronsole/pronterface`
+{{ site.icons.ubuntu }} `sudo apt-add-repository ppa:richi-paraeasy/ppa && sudo apt-get update`
+{{ site.icons.ubuntu }} `sudo apt-get install pronsole/pronterface`
