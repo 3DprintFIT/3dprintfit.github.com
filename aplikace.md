@@ -51,3 +51,13 @@ Skeinforge slouží ke slicování objektů, tedy k nařezání na jednotlivé t
 {{ site.icons.web }} [Třídílný článek popisující jednotlivé volby](http://richrap.blogspot.cz/2012/01/slic3r-is-nicer-part-1-settings-and.html)
 
 {{ site.icons.fedora }} `sudo yum install slic3r`
+
+### Printrun
+Printrun je sada aplikací na práci s tiskárnou. **Plater** je velmi primitivní aplikace na přípravu tiskového plátu. Důležitější jsou ale aplikace **Pronsole** a **Pronterface** k ovládání tiskárny. První znich je, jak plyne z názvu, konzolová, ta druhá je grafická. Pronterafce umí ovládat tiskárnu, vizualizovat jednotlivé vrstvy tisku a integruje libovolný slicovací program (jako výchozí je nastaven Skeinforge). Momentálně používáme právě Pronterface, protože je to nejednoduší ovládací program.
+
+{{ site.icons.web }} [Printrun na RepRapWiki](http://reprap.org/wiki/Printrun)
+
+{{ site.icons.fedora }} `sudo yum install printrun` (pro celý balík)
+
+{{ site.icons.fedora }} `sudo yum install plater/pronsole/pronterface` (pro jednotlivé aplikace)
+
