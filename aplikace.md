@@ -70,3 +70,6 @@ Printrun je sada aplikací na práci s tiskárnou. **Plater** je velmi primitivn
 
 {{ site.icons.web }} [Web RepetierHostu](http://www.repetier.com/documentation/repetier-host/)
 {{ site.icons.fedora }} `sudo yum install RepetierHost`
+
+### Cura
+[![Cura](images/screens/cura_thumb.png)](images/screens/cura.png) Cura je další aplikací na ovládání tiskárny. Původně vnikla jako fork Skeinforge, ale oproti slicovaní nyní nabízí i možnost ovládat tiskárnu. Specializuje se na modely Ultimaker, do kterých umí i nahrávat vylepšený firmware, ale dá se s ní tisknout i na tiskárnách RepRap.
