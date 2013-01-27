@@ -64,3 +64,10 @@ Printrun je sada aplikací na práci s tiskárnou. **Plater** je velmi primitivn
 {{ site.icons.ubuntu }} `sudo apt-add-repository ppa:richi-paraeasy/ppa && sudo apt-get update`
 
 {{ site.icons.ubuntu }} `sudo apt-get install pronsole/pronterface`
+
+### RepetierHost
+[![RepetierHost](images/screens/repetierhost_thumb.png)](images/screens/repetierhost.png) RepetierHost je aplikace, která nabízí kompletní workflow k tisku. Věc, kterou chcete vytisknout, nahrajete do aplikace, umístíte ji na 3D tiskovou plochu a necháte nařezat pomocí Slic3ru nebo Skeinforge přímo z aplikace. Výsledné instrukce pro tiskárnu (G-Code) můžete měnit přímo v aplikaci a prohlížet průběh tiskové hlavy ve 3D zobrazení. RepetierHost nabízí i českou lokalizaci.
+
+{{ site.icons.web }} [Web RepetierHostu](http://www.repetier.com/documentation/repetier-host/)
+
+{{ site.icons.fedora }} `sudo yum install RepetierHost`
