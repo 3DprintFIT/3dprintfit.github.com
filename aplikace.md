@@ -76,3 +76,8 @@ Printrun je sada aplikací na práci s tiskárnou. **Plater** je velmi primitivn
 
 {{ site.icons.web }} [Web Cury](http://daid.github.com/Cura/)
 {{ site.icons.fedora }} `sudo yum install cura`
+
+### KISSlicer
+[![KISSlicer](images/screens/kisslicer_thumb.png)](images/screens/kisslicer.png) KISSlicer znamená Keep It Simple Slicer &ndash; je tedy dalším slicovacím programem, jako jediný v tomto seznamu není open-source a nabízí i placenou variantu. Nemáme s ním mnoho zkušeností a uvádíme ho zde spíš pro pořádek.
+
+{{ site.icons.web }} [Web KISSliceru](http://www.kisslicer.com/)
