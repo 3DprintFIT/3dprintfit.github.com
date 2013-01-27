@@ -39,7 +39,9 @@ Skeinforge slouží ke slicování objektů, tedy k nařezání na jednotlivé t
 {{ site.icons.web }} [Manuál ke Skeinforge](http://fabmetheus.crsndoo.com/wiki/index.php/Skeinforge)
 {{ site.icons.web }} [Naše profily pro Skeinforge](https://github.com/3DprintFIT/3dprintfit.github.com)
 
-{{ site.icons.fedora }} `sudo yum install skeinforge` nebo `sfact`
+{{ site.icons.fedora }} `sudo yum install skeinforge`
+{{ site.icons.fedora }} `sudo yum install sfact`
+
 {{ site.icons.ubuntu }} `sudo apt-get install sfact`
 
 ### Slic3r
