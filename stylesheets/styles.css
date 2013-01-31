@@ -764,7 +764,7 @@ header p {
 #social {
   z-index: 100;
   right: 0;
-  width: 57px;
+  width: 36px;
   position: fixed;
   bottom: 20%;
   background: #ffcc00;
@@ -779,13 +779,15 @@ header p {
   -ms-border-radius: 2px 0px 0px 2px;
   -khtml-border-radius: 2px 0px 0px 2px;
   border-radius: 2px 0px 0px 2px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 7px;
-  padding-right: 7px;
+  padding-top: 0px;
+  padding-bottom: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
 }
 #social .button {
-  
+  margin-left: 0px;
+  padding: 5px 6px;
+  margin-top: 6px;
 }
 
 section {
