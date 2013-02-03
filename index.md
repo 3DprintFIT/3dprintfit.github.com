@@ -16,13 +16,13 @@ Představte si, že tento stroj se vám vejde na stůl, že si ho můžete sami 
 $(function() {
   $( "#dialog-modal" ).dialog({
 	width: 700,
+	title: "Jak to funguje",
 	autoOpen: false
   });
 });
 </script>
 
 <div id="dialog-modal">
-<h3 id='jak_to_funguje'>Jak to funguje</h3>
 <p>Modely vznikají <strong>aditivní cestou</strong>, takže tiskárna nevyřezává ani nic podobného. Nevzniká tak kromě zmetků <strong>žádný odpad</strong> a veškerý spotřebovaný materiál se nachází ve výsledném objektu. Určitě znáte <strong>tavnou lepicí pistoli</strong>, přesně na jejím principu funguje 3D tisk na tiskárně RepRap. Místo lepicího silikonu se používá mnohem užší plastový drát namotaný na roli, který je nasouván do tiskové hlavy, kde se <strong>zahřeje a roztaví, nanese na podložku a zase ztuhne</strong>. To samozřejmě neděláte rukama, tiskovou hlavou a tiskovou plochou hýbe sada krokových motorů, která umožňuje pohyb hlavy vůči podložce po třech osách.</p>
 
 <p>Tiskne se většinou z <strong>plastu</strong>, konkrétně z ABS, nebo z plastu podobného materiálu z kukuřičného škrobu, PLA – můžete se tak rozhodnout, že budete <strong>tisknout ekologicky</strong>. Vhledem k principu tisku ale není problém tisknout z čehokoli, co dokážete roztavit a nechat zase zatuhnout.</p>
