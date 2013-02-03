@@ -23,6 +23,7 @@ $(function() {
 
 <div id="dialog-modal">
 
+
 ### Jak to funguje
 Modely vznikají **aditivní cestou**, takže tiskárna nevyřezává ani nic podobného. Nevzniká tak kromě zmetků **žádný odpad** a veškerý spotřebovaný materiál se nachází ve výsledném objektu. Určitě znáte **tavnou lepicí pistoli**, přesně na jejím principu funguje 3D tisk na tiskárně RepRap. Místo lepicího silikonu se používá mnohem užší plastový drát namotaný na roli, který je nasouván do tiskové hlavy, kde se **zahřeje a roztaví, nanese na podložku a zase ztuhne**. To samozřejmě neděláte rukama, tiskovou hlavou a tiskovou plochou hýbe sada krokových motorů, která umožňuje pohyb hlavy vůči podložce po třech osách.
 
@@ -31,5 +32,6 @@ Tiskne se většinou z **plastu**, konkrétně z ABS, nebo z plastu podobného m
 Máme tedy samohybnou tavnou pistoli, ze které vylézá místo lepidla plast – jak z toho ale udělat objekt podle počítačové reprezentace? Jednoduše, model se před tiskem pomocí speciálního programu **nařeže na dvourozměrné pláty**. Tisková hlava pak **nakreslí vždy jednu vrstvu** a posune se o kousek výš, kde začne kreslit další. Výhoda je, že řezací program pozná, která část je vnitřní, a podle požadavku uživatele vyplní objekt jen částečně, například sítí nebo včelími pláty. Není tak dutý a jednoduše zničitelný, není ale ani plný a šetří tedy materiál.
 
 {{ site.icons.web }} Více se dozvíte v [článku na LinuxEXPRES.cz](http://www.linuxexpres.cz/hardware/3d-tisk).
+
 
 </div>
