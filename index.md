@@ -22,16 +22,12 @@ $(function() {
 </script>
 
 <div id="dialog-modal">
+<h3 id='jak_to_funguje'>Jak to funguje</h3>
+<p>Modely vznikají <strong>aditivní cestou</strong>, takže tiskárna nevyřezává ani nic podobného. Nevzniká tak kromě zmetků <strong>žádný odpad</strong> a veškerý spotřebovaný materiál se nachází ve výsledném objektu. Určitě znáte <strong>tavnou lepicí pistoli</strong>, přesně na jejím principu funguje 3D tisk na tiskárně RepRap. Místo lepicího silikonu se používá mnohem užší plastový drát namotaný na roli, který je nasouván do tiskové hlavy, kde se <strong>zahřeje a roztaví, nanese na podložku a zase ztuhne</strong>. To samozřejmě neděláte rukama, tiskovou hlavou a tiskovou plochou hýbe sada krokových motorů, která umožňuje pohyb hlavy vůči podložce po třech osách.</p>
 
+<p>Tiskne se většinou z <strong>plastu</strong>, konkrétně z ABS, nebo z plastu podobného materiálu z kukuřičného škrobu, PLA – můžete se tak rozhodnout, že budete <strong>tisknout ekologicky</strong>. Vhledem k principu tisku ale není problém tisknout z čehokoli, co dokážete roztavit a nechat zase zatuhnout.</p>
 
-### Jak to funguje
-Modely vznikají **aditivní cestou**, takže tiskárna nevyřezává ani nic podobného. Nevzniká tak kromě zmetků **žádný odpad** a veškerý spotřebovaný materiál se nachází ve výsledném objektu. Určitě znáte **tavnou lepicí pistoli**, přesně na jejím principu funguje 3D tisk na tiskárně RepRap. Místo lepicího silikonu se používá mnohem užší plastový drát namotaný na roli, který je nasouván do tiskové hlavy, kde se **zahřeje a roztaví, nanese na podložku a zase ztuhne**. To samozřejmě neděláte rukama, tiskovou hlavou a tiskovou plochou hýbe sada krokových motorů, která umožňuje pohyb hlavy vůči podložce po třech osách.
+<p>Máme tedy samohybnou tavnou pistoli, ze které vylézá místo lepidla plast – jak z toho ale udělat objekt podle počítačové reprezentace? Jednoduše, model se před tiskem pomocí speciálního programu <strong>nařeže na dvourozměrné pláty</strong>. Tisková hlava pak <strong>nakreslí vždy jednu vrstvu</strong> a posune se o kousek výš, kde začne kreslit další. Výhoda je, že řezací program pozná, která část je vnitřní, a podle požadavku uživatele vyplní objekt jen částečně, například sítí nebo včelími pláty. Není tak dutý a jednoduše zničitelný, není ale ani plný a šetří tedy materiál.</p>
 
-Tiskne se většinou z **plastu**, konkrétně z ABS, nebo z plastu podobného materiálu z kukuřičného škrobu, PLA – můžete se tak rozhodnout, že budete **tisknout ekologicky**. Vhledem k principu tisku ale není problém tisknout z čehokoli, co dokážete roztavit a nechat zase zatuhnout.
-
-Máme tedy samohybnou tavnou pistoli, ze které vylézá místo lepidla plast – jak z toho ale udělat objekt podle počítačové reprezentace? Jednoduše, model se před tiskem pomocí speciálního programu **nařeže na dvourozměrné pláty**. Tisková hlava pak **nakreslí vždy jednu vrstvu** a posune se o kousek výš, kde začne kreslit další. Výhoda je, že řezací program pozná, která část je vnitřní, a podle požadavku uživatele vyplní objekt jen částečně, například sítí nebo včelími pláty. Není tak dutý a jednoduše zničitelný, není ale ani plný a šetří tedy materiál.
-
-{{ site.icons.web }} Více se dozvíte v [článku na LinuxEXPRES.cz](http://www.linuxexpres.cz/hardware/3d-tisk).
-
-
+<p><img src='images/icons/web.png' alt='Web' /> Více se dozvíte v <a href='http://www.linuxexpres.cz/hardware/3d-tisk'>článku na LinuxEXPRES.cz</a>.</p>
 </div>
