@@ -13,13 +13,13 @@ layout: default
 Honza je studentem magisterského programu Fakulty architektury a je tak zatím jediným členem labu, který není z FITu. Není limitován programátorskou logikou a tak neustále vymýšlí věci, které se ostatním zdají nereálné. Většinou se mu to ale povede. Vymyslel [obří tiskárnu Golem](tiskarny#golem) a neustále ji předělává a zlepšuje. Momentálně by chtěl vytvořit poloautomatické létající drony, které budou tisknout a tisk tedy nebude limitován velikostí konstrukce.
 
 #### Honza Friedl
-Honza je spojka mezi [strahovskou tiskárnou](http://3dtiskarna.sh.cvut.cz/) a tou naší. Účastní se obou projektů a FIXME vulputate erat, eget fringilla justo aliquam a. Donec ultrices imperdiet nunc at lobortis. Vestibulum lorem elit, sodales vel suscipit a, facilisis id lacus. Nam ultrices metus sit amet ante congue eget adipiscing magna consequat. Praesent at risus ut metus sollicitudin laoreet in a urna. Integer vitae erat felis.
+Honza je spojka mezi [strahovskou tiskárnou](http://3dtiskarna.sh.cvut.cz/) a tou naší. Účastní se obou projektů a tak může nabyté zkušenosti porovnávat a sdílet s ostatními. Je nejen studentem FITu, ale také členem akademického senátu fakulty.
 
 #### Martin Kopecký
-Nullam risus orci, blandit sed pretium ac, vulputate a lorem. In dignissim tempor sapien, et varius augue tincidunt sed. Fusce ut turpis in risus feugiat varius. Nulla odio nibh, porta a lacinia at, blandit sed lacus. Nulla facilisi. Integer ullamcorper, velit id adipiscing varius, dolor tellus convallis ligula, vitae luctus lectus nunc eu nunc.
+Martin se účastní většiny projektů v labu a vymýšlí různé zlepšováky. Je studentem bakalářského programu na FITu.
 
 #### Tomáš „Syky“ Sýkora
-![Tomáš Sýkora]({{ site.gravatar.start }}aaa00ef8e43527bcc4955719301d0d23{{ site.gravatar.end }}) Syky je služebně nejmladším členem labu, je studentem prvního ročníku bakalářského programu na FITu. V labu rozbíjí židle a už nevim, co sem napsat dál. FIXME Nulla odio nibh, porta a lacinia at, blandit sed lacus. Nulla facilisi.
+![Tomáš Sýkora]({{ site.gravatar.start }}aaa00ef8e43527bcc4955719301d0d23{{ site.gravatar.end }}) Syky je služebně nejmladším členem labu, je studentem prvního ročníku bakalářského programu na FITu. V labu rozbíjí židle, ale nedělá to schválně.
 
 ### Neaktivní členové
 Někteří členové našich řad již nejsou mezi námi, uvítáme, když se k nám [přidáte třeba vy](kontakt) a rozšíříte naše řady.
@@ -28,7 +28,7 @@ Někteří členové našich řad již nejsou mezi námi, uvítáme, když se k 
 ![Vojta Pithart]({{ site.gravatar.start }}1ea4e3af266a619aa964d31bb9bb0a8d{{ site.gravatar.end }}) Vojta byl studentem bakalářského programu FIT a aktivním členem labu v době jeho zakládání. Nyní se rozhodl ukončit akademické působení a věnuje se naplno práci pro [Středisko společných činností Akademie věd](http://www.ssc.cas.cz/) jako IT specialista. Vojta i nadále sporadicky vypomáhá na akcích labu a prý se mu po nás stýská.
 
 #### Adéla Chrastinová
-Adéla je absolventkou Katedry počítačů na FELu a stála u zrodu FITu. V nedávné době při mateřské dovolené pomáhala s [propagací fakulty](http://www.fit.cvut.cz/fakulta/kontakty/pr). Je šéfredaktorkou fakultního časopisu [Buď FIT](http://www.fit.cvut.cz/media/casopis). Společně s [Radkem Doubravou](https://usermap.cvut.cz/profile/doubrra1/) je iniciační osobou projektu 3D tiskárny na FITu, starala se o jeho propagaci a komunikaci s fakultou. Nyní se věnuje rodině.
+Adéla je absolventkou Katedry počítačů na FELu a stála u zrodu FITu. V nedávné době při mateřské dovolené pomáhala s [propagací fakulty](http://www.fit.cvut.cz/fakulta/kontakty/pr). Společně s [Radkem Doubravou](https://usermap.cvut.cz/profile/doubrra1/) je iniciační osobou projektu 3D tiskárny na FITu, starala se o jeho propagaci a komunikaci s fakultou. Nyní se věnuje rodině.
 
 #### Gary Fibiger
-Gary bla bla :)
+Gary je jedním ze zakládajících členů labu, ale přestože nadále studuje na FITu, do labu zamíří spíše sporadicky. Je autorem našeho loga.
