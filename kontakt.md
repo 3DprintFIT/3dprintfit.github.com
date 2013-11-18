@@ -11,9 +11,6 @@ Pokud nám chcete napsat, napište na náš **všeobecný kontakt** a my už se 
 
 {{ site.icons.phone }} +420 224 356 415
 
-### Pozor, přes prázdniny tu nebudeme
-Přes prázdniny probíhá v prostorech školy rozsáhlá rekonstrukce. Takže lab nebude od 14. června 2013 zhruba do konce října fyzicky v provozu. Klidně pište e-maily, v případě potřeby se s vámi pokusíme setkat někde jinde. Telefon ale fungovat nebude. Po prázdninách budeme na stejné adrese, ale v jiné místnosti.
-
 ### Přijďte se k nám podívat
 Ještě jste neviděli tiskárnu naživo a chtěli byste? Nebo naopak už uvažujete o stavbě své vlastní? Či snad už tiskárnu máte a hledáte odbornou pomoc? Je mnoho důvodů, proč se u nás zastavit. **Domluvte si schůzku nebo přijďte na blind**, nám je to jedno (raději ale zavolejte a ověřte, že tu jsme).
 
