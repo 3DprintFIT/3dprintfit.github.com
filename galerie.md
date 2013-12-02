@@ -6,6 +6,7 @@ layout: default
 ### Seznam galerií
 
 <ul>
+<li><a href="#" onclick='loadPicasaAlbum("SemestralniPraceBI3DT201314");'>Semestrální práce BI-3DT 2013/14</a></li>
 <li><a href="#" onclick='loadPicasaAlbum("SlavnostniOtevreni");'>Slavnostní otevření</a></li>
 <li><a href="#" onclick='loadPicasaAlbum("PrazskaMuzejniNoc2012");'>Pražská Muzejní noc 2012</a></li>
 <li><a href="#" onclick='loadPicasaAlbum("KufrNaTiskarnu");'>Kufr na tiskárnu</a></li>
