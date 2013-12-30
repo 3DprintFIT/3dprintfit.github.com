@@ -7,11 +7,11 @@ Na FIT ČVUT vyučujeme od zimního semestru v akademickém roce 2013/2014 volit
 
 **Anotace:** Studenti se naučí navrhnout trojrozměrné objekty optimalizované pro tisk na tiskárně RepRap a realizovat samotný tisk. Budou umět objekty navrhnout, připravit pro tisk a vytisknout v plném rozsahu.
 
-![BI-3DT](images/prints/bi-3dt.png) Jedná se o předmět ukončený klasifikovaným zápočtem, v prvním běhu za 3 kredity (příště pravděpodobně 4). V rámci horizontální propustnosti si předmět mohou zapsat i studenti ostatních fakult ČVUT. Uvažujeme o otevření předmětu i v anglickém jazyce (nejdříve však v letním semestru 2014/2015).
+Jedná se o předmět ukončený klasifikovaným zápočtem, v prvním běhu za 3 kredity (příště pravděpodobně 4). V rámci horizontální propustnosti si předmět mohou zapsat i studenti ostatních fakult ČVUT. Uvažujeme o otevření předmětu i v anglickém jazyce (nejdříve však v letním semestru 2014/2015).
 
 ### Hodnocení
 
-Celkové hodnocení se skládá z bodů získaných v průběhu semestru. Nekoná se žádná zkouška, ani se nepíše žádný test. Body lze získat za:
+![BI-3DT](images/prints/bi-3dt.png) Celkové hodnocení se skládá z bodů získaných v průběhu semestru. Nekoná se žádná zkouška, ani se nepíše žádný test. Body lze získat za:
 
  * Účast na cvičeních, kde se staví tiskárny
  * Slicovací úlohy na cvičeních
