@@ -548,7 +548,7 @@ img[src^="https://secure.gravatar.com/avatar/"] {
   height: 100px;
   clear: both;
 }
-img[src^="images/screens/"] {
+img[src^="images/screens/"], img[src^="images/prints/bi-3dt"] {
   float: right;
   padding-left: 5px;
   padding-top: 5px;
