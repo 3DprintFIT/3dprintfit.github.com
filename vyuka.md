@@ -31,3 +31,7 @@ V rámci semestrální práce studenti vytvoří počítačový model, připrav�
  * Slicing, GCode, Slic3r
  * Skeinforge
  * Stavba tiskárny, Tisk
+
+### Výsledky studentů
+
+![Výsledky](images/bi-3dt-znamky.png)
