@@ -12,7 +12,7 @@ Pokud nám chcete napsat, napište na náš **všeobecný kontakt** a my už se 
 {{ site.icons.phone }} +420 224 356 415
 
 ### Přijďte se k nám podívat
-Ještě jste neviděli tiskárnu naživo a chtěli byste? Nebo naopak už uvažujete o stavbě své vlastní? Či snad už tiskárnu máte a hledáte odbornou pomoc? Je mnoho důvodů, proč se u nás zastavit. **Domluvte si schůzku nebo přijďte na blind**, nám je to jedno (raději ale zavolejte a ověřte, že tu jsme).
+Ještě jste neviděli tiskárnu naživo a chtěli byste? Nebo naopak už uvažujete o stavbě své vlastní? Či snad už tiskárnu máte a hledáte odbornou pomoc? Je mnoho důvodů, proč se u nás zastavit. V [kalendáři](kalendar) najdete otevírací hodiny, nebo si můžete e-mailem či telefonicky sjendat schůzku jindy.
 
 ### Přidejte se k nám
 Líbí se vám, co děláme a **chcete se k nám přidat?** Přijďte za námi a najdeme vám aktivitu. Naše dveře jsou dalším lidem otevřené, **nemusíte být ani student naší univerzity**.
