@@ -1,4 +1,4 @@
 
 [submodule "artwork"]
 	path = artwork
-	url = git://github.com/3DprintFIT/artwork.git
+	url = https://github.com/3DprintFIT/artwork.git
