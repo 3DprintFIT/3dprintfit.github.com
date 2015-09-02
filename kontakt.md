@@ -9,7 +9,7 @@ Pokud nám chcete napsat, napište na náš **všeobecný kontakt** a my už se 
 
 {{ site.icons.mail }} [3dprint@fit.cvut.cz](mailto:3dprint@fit.cvut.cz)
 
-{{ site.icons.phone }} +420 224 356 415
+{{ site.icons.phone }} +420 224 358 714
 
 ### Přijďte se k nám podívat
 Ještě jste neviděli tiskárnu naživo a chtěli byste? Nebo naopak už uvažujete o stavbě své vlastní? Či snad už tiskárnu máte a hledáte odbornou pomoc? Je mnoho důvodů, proč se u nás zastavit. V [kalendáři](kalendar) najdete otevírací hodiny, nebo si můžete e-mailem či telefonicky sjendat schůzku jindy.
