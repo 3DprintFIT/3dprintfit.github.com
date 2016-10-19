@@ -15,7 +15,7 @@ Pokud nám chcete napsat, napište na náš **všeobecný kontakt** a my už se 
 Ještě jste neviděli tiskárnu naživo a chtěli byste? Nebo naopak už uvažujete o stavbě své vlastní? Či snad už tiskárnu máte a hledáte odbornou pomoc? Je mnoho důvodů, proč se u nás zastavit. V [kalendáři](kalendar) najdete otevírací hodiny, nebo si můžete e-mailem či telefonicky sjendat schůzku jindy.
 
 ### Přidejte se k nám
-Líbí se vám, co děláme a **chcete se k nám přidat?** Přijďte za námi a najdeme vám aktivitu. Naše dveře jsou dalším lidem otevřené, **nemusíte být ani student naší univerzity**.
+Líbí se vám, co děláme a **chcete se k nám přidat?** Přijďte za námi a najdeme vám aktivitu. Naše dveře jsou dalším lidem otevřené; ozvěte se i pokud **nejste student naší univerzity**, něco vymsylíme.
 
 ### Kudy kam
 Naše laboratoř se nachází v prostorách **Fakulty informačních technologií v Dejvicích**. Naleznete ji ve **11. patře budovy A**, místnost **A1153**. Do budovy se dostanete buď vchodem Fakulty stavební (poté směrem doprava k výtahům) nebo průchodem přes novou budovu Fakulty architektury a Fakulty informačních technologií (ve druhém podlaží).
